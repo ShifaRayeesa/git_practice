@@ -1,3 +1,3 @@
 # git_practice
 
-This is the main branch
+This is the updated branch
